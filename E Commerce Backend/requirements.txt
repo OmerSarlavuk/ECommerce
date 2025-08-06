@@ -1,0 +1,6 @@
+open_clip_torch
+torchvision
+pillow
+pymssql
+numpy
+google-generativeai
