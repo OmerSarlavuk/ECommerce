@@ -219,10 +219,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UKSYRU99Z6;
+				DEVELOPMENT_TEAM = X9VVU684R9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ECommerceiOS/AppConfig/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = NSPhotoLibraryUsageDescription;
+				INFOPLIST_KEY_CFBundleDisplayName = ECommerceiOS;
 				INFOPLIST_KEY_LSApplicationCategoryType = NSCameraUsageDescription;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Ürün aramak için kamera kullanımı gereklidir.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -234,7 +234,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.omer.ECommerceiOS.sss;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omer.ECommerceiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -250,10 +250,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UKSYRU99Z6;
+				DEVELOPMENT_TEAM = X9VVU684R9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ECommerceiOS/AppConfig/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = NSPhotoLibraryUsageDescription;
+				INFOPLIST_KEY_CFBundleDisplayName = ECommerceiOS;
 				INFOPLIST_KEY_LSApplicationCategoryType = NSCameraUsageDescription;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Ürün aramak için kamera kullanımı gereklidir.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -265,7 +265,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.omer.ECommerceiOS.sss;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omer.ECommerceiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
